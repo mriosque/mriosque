@@ -1,0 +1,4 @@
+- Hi, I’m @mriosque
+- I’m interested in the fields of optimization, statistics (specially in non-parametric statistics) and mathematics applied to medical fields.
+- I’m currently learning computer vision and processing of medical images to improve cancer treatments.
+- I’m looking to collaborate on the improvement of medical processes by mathematics.
